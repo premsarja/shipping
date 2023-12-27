@@ -1,4 +1,4 @@
-@Library("roboshop@main")
+@Library("roboshop@main") _
  
 env.COMPONENT="shipping"
 maven()
