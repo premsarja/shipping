@@ -1,4 +1,4 @@
-@Library("roboshop@main") node_modules
+@Library("roboshop@main")
  
 env.COMPONENT="shipping"
 maven()
