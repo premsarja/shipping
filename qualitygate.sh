@@ -1,3 +1,5 @@
+#!/bin/bash
+
 USERNAME=admin
 PASSWORD=password
 HOSTIP=172.31.89.159
